@@ -12,7 +12,7 @@ The review analyzes 47 primary studies that treat an algorithm, or its materiali
 | RQ2 | Data sources that make those forms observable |
 | RQ3 | Methods used to quantify impact, organized as attention, adoption, and merit |
 | RQ4 | Biases and gaming risks of these methods |
-| RQ5 | Decisions that innovators, adopters, developers, and funders can support |
+| RQ5 | Decisions that innovators, adopters, and funders can support |
 
 ## Screening and Coding
 
