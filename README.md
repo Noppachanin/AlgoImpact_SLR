@@ -1,6 +1,6 @@
-# Impact Quantification for Algorithm Artifacts: Systematic Review Data
+# A systematic review on quantifying the impact of algorithm artifacts as outputs of artificial intelligence research
 
-This repository holds the data and documentation for a systematic literature review on how the impact of an algorithm can be quantified to complement the citation-based measure of its paper. The review follows PRISMA and is submitted to IEEE Access.
+This repository holds the data and documentation for a systematic literature review on how the impact of an algorithm can be quantified to complement the citation-based measure of its paper. The review follows PRISMA.
 
 ## Scope
 
